@@ -1,0 +1,9 @@
+----------------------------------------
+|    Diagnosis: Antifreeze Poisoning   |
+|======================================|
+| Treatments:                          |
+|   Antidote administration:           |
+|        fomepizole, ethanol           |
+|   Dialysis                           |
+|   Oxygen therapy                     |
+----------------------------------------

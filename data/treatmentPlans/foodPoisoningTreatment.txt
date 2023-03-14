@@ -1,0 +1,9 @@
+----------------------------------------
+|      Diagnosis: Food Poisoning       | 
+|======================================|
+| Treatments:                          |
+|   Fluid replacement                  |
+|   Antibiotics                        |
+|   Antiparasitics                     |
+|   Probiotics                         |
+----------------------------------------

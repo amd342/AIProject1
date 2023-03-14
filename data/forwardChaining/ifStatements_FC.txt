@@ -1,0 +1,21 @@
+diagnosis Antifreeze
+
+diagnosis Carbon-Monoxide
+
+diagnosis Food
+
+diagnosis Arsenic
+
+diagnosis Asbestos
+
+diagnosis Formaldehyde
+
+diagnosis Lead
+
+diagnosis Mercury
+
+diagnosis Alcohol
+
+diagnosis Tylenol
+
+diagnosis Unknown

@@ -1,0 +1,9 @@
+----------------------------------------
+|     Diagnosis: Mercury Poisoning     |
+|======================================|
+| Treatments:                          |
+|   Dialysis                           |
+|   Surgery                            |
+|   Chelation Therapy                  |
+|   Oxygen mask                        |
+----------------------------------------

@@ -1,0 +1,7 @@
+----------------------------------------
+|          Diagnosis: Unknown          |
+|======================================|
+| Treatments:                          |
+|   Diagnosis unable to be made,       |
+|   no suggested treatments available. |
+----------------------------------------

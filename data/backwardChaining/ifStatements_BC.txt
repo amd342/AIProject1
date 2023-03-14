@@ -1,0 +1,179 @@
+indicQuestion1
+y
+
+indicSymp1
+y
+urinary retention
+y
+
+indicSymp1
+y
+paralysis
+y
+
+indicSymp1
+y
+red or swollen skin
+y
+
+indicSymp1
+y
+warts or lesions
+y
+
+indicSymp1
+y
+swollen digits
+y
+
+indicSymp1
+y
+burning eyes, nose, or mouth
+y
+
+vomiting or nausea
+n
+chest pains
+y
+
+vomiting or nausea
+n
+chest pains
+n
+headaches
+y
+
+vomiting or nausea
+n
+chest pains
+n
+fatigue
+y
+
+vomiting or nausea
+n
+chest pains
+n
+convulsions
+y
+
+vomiting or nausea
+n
+chest pains
+n
+insomnia
+y
+
+vomiting or nausea
+n
+chest pains
+n
+headaches
+n
+fatigue
+n
+convulsions
+n
+insomnia
+n
+
+indicQuestion2
+y
+
+indicSymp2
+y
+convulsions
+y
+
+indicSymp2
+y
+fever
+y
+
+indicSymp2
+y
+irritability
+y
+
+indicSymp2
+y
+dehydration
+y
+
+irregular breathing
+y
+chest pains
+y
+
+irregular breathing
+y
+chest pains
+n
+seizures
+y
+
+irregular breathing
+y
+chest pains
+n
+confusion
+y
+
+irregular breathing
+y
+chest pains
+n
+arrythmia
+y
+
+irregular breathing
+y
+chest pains
+n
+seizures
+n
+confusion
+n
+arrythmia
+n
+
+indicQuestion3
+y
+
+indicSymp3
+y
+confusion
+y
+
+indicSymp3
+y
+seizures
+y
+
+indicSymp3
+y
+headaches
+y
+
+indicSymp3
+y
+fatigue
+y
+
+indicSymp3
+y
+arrythmia
+y
+
+tingling or numbness
+y
+muscle pains
+y
+
+tingling or numbness
+y
+muscle pains
+n
+
+tingling or numbness
+n

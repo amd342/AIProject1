@@ -1,0 +1,191 @@
+indicQuestion1
+ 
+ 
+ 
+  
+
+indicSymp1
+urinary retention
+ 
+ 
+ 
+
+indicSymp1
+paralysis
+ 
+ 
+ 
+
+indicSymp1
+red or swollen skin
+ 
+ 
+ 
+
+indicSymp1
+warts or lesions
+ 
+ 
+ 
+
+indicSymp1
+swollen digits
+ 
+ 
+ 
+ 
+indicSymp1
+burning eyes, nose, or mouth
+ 
+ 
+ 
+
+vomiting or nausea
+chest pains
+ 
+ 
+ 
+
+vomiting or nausea
+chest pains
+headaches
+ 
+ 
+
+vomiting or nausea
+chest pains
+fatigue
+ 
+ 
+ 
+vomiting or nausea
+chest pains
+convulsions
+ 
+ 
+
+vomiting or nausea
+chest pains
+insomnia
+ 
+ 
+ 
+vomiting or nausea
+chest pains
+headaches
+fatigue
+convulsions
+insomnia
+indicQuestion2
+ 
+ 
+ 
+ 
+
+indicSymp2
+convulsions
+ 
+ 
+ 
+ 
+indicSymp2
+fever
+ 
+ 
+ 
+
+indicSymp2
+irritability
+ 
+ 
+ 
+
+indicSymp2
+dehydration
+ 
+ 
+ 
+
+irregular breathing
+chest pains
+ 
+ 
+ 
+ 
+irregular breathing
+chest pains
+seizures
+ 
+ 
+ 
+irregular breathing
+chest pains
+confusion
+ 
+ 
+ 
+irregular breathing
+chest pains
+arrythmia
+ 
+ 
+ 
+irregular breathing
+chest pains
+seizures
+confusion
+arrythmia
+
+indicQuestion3
+
+
+
+
+
+indicSymp3
+confusion
+
+
+
+
+indicSymp3
+seizures
+
+
+
+
+indicSymp3
+headaches
+
+
+
+
+indicSymp3
+fatigue
+
+
+
+
+indicSymp3
+arrythmia
+
+
+
+
+tingling or numbness
+muscle pains
+
+
+
+
+tingling or numbness
+muscle pains
+
+
+
+
+tingling or numbness
+ 
+ 
+ 
+ 

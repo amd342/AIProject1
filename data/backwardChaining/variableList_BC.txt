@@ -1,0 +1,48 @@
+indicQuestion1
+n n
+urinary retention
+n n
+paralysis
+n n
+red or swollen skin
+n n
+warts or lesions
+n n
+swollen digits
+n n
+burning eyes, nose, or mouth
+n n
+vomiting or nausea
+n n
+chest pains
+n n
+headaches
+n n
+fatigue
+n n
+convulsions
+n n
+insomnia
+n n
+indicQuestion2
+n n
+fever
+n n
+irritability
+n n
+dehydration
+n n
+irregular breathing
+n n
+seizures
+n n
+confusion
+n n
+arrythmia
+n n
+indicQuestion3
+n n
+tingling or numbness
+n n
+muscle pains
+n n

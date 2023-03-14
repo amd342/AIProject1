@@ -1,0 +1,21 @@
+treatmentFile antifreezeTreatment.txt
+
+treatmentFile cOTreatment.txt
+
+treatmentFile foodPoisoningTreatment.txt
+
+treatmentFile arsenicTreatment.txt
+
+treatmentFile asbestosisTreatment.txt
+
+treatmentFile formaldehydeTreatment.txt
+
+treatmentFile leadTreatment.txt
+
+treatmentFile mercuryTreatment.txt
+
+treatmentFile alcoholTreatment.txt
+
+treatmentFile tylenolTreatment.txt
+
+treatmentFile unkownTreatment.txt

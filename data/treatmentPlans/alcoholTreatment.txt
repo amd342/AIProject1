@@ -1,0 +1,9 @@
+----------------------------------------
+|     Diagnosis: Alcohol Poisoning     |
+|======================================|
+| Treatments:                          |
+|   Sit up straight                    |
+|   Stay awake                         |
+|   Drink water                        |
+|   Cover them with a warm blanket     |
+----------------------------------------

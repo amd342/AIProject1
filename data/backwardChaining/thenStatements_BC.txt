@@ -1,0 +1,63 @@
+indicSymp1 y
+
+diagnosis Antifreeze
+
+diagnosis Food
+
+diagnosis Arsenic
+
+diagnosis Arsenic
+
+diagnosis Asbestos
+
+diagnosis Formaldehyde
+
+diagnosis Asbestos
+
+diagnosis Mercury
+
+diagnosis Mercury
+
+diagnosis Mercury
+
+diagnosis Mercury
+
+diagnosis Unknown
+
+indicSymp2 y
+
+diagnosis Antifreeze
+
+diagnosis Food
+
+diagnosis Lead
+
+diagnosis Alcohol
+
+diagnosis Formaldehyde
+
+diagnosis Alcohol
+
+diagnosis Carbon-Monoxide
+
+diagnosis Antifreeze
+
+diagnosis Unknown
+
+indicSymp3 y
+
+diagnosis Tylenol
+
+diagnosis Lead
+
+diagnosis Food
+
+diagnosis Food
+
+diagnosis Arsenic
+
+diagnosis Arsenic
+
+diagnosis Food
+
+diagnosis Tylenol

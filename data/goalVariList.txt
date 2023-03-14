@@ -1,0 +1,5 @@
+diagnosis n n
+treatmentFile n n
+indicSymp1 n n
+indicSymp2 n n
+indicSymp3 n n
