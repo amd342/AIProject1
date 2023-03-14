@@ -20,6 +20,8 @@ int search_cvl(int, string,  vector<vector<string>>&, vector<vector<vector<strin
 bool update_VLFC(int, int, string, vector<vector<string>>&, vector<vector<vector<string>>>, vector<vector<vector<string>>>, vector<vector<string>>&, vector<string>);
 int clause_to_rule(int, string,  vector<vector<string>>&, vector<vector<vector<string>>>, vector<vector<vector<string>>>, vector<vector<string>>&, vector<string>);
 
+//DIFFERENT COMMENT
+
 //create goalList containing intializations state and values of the goals, calls the backward and forward chaining functions, then prints the final results.
 int main(){
 
